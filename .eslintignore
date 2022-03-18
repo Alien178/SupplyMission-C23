@@ -1,0 +1,3 @@
+{
+    "ignorePatterns": ["matter.js", "p5.play.js"]
+}
